@@ -1,0 +1,5 @@
+// Scrivere "Hello word!" sulla console
+#include <stdio.h>
+int main(void){
+printf("Hello word!\n")
+}
